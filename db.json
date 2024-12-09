@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {
+      "id": "4d9b",
+      "name": "mastang",
+      "year": "1969",
+      "brand": "Ford"
+    }
+  ],
+  "company": [
+    {
+      "id": "d829",
+      "name": "apple",
+      "year": "1983",
+      "brand": "Ford"
+    }
+  ]
+}
